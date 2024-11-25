@@ -17,3 +17,6 @@ Mobile Programming Project
 
 This project builds on Xcode 13.0 and later, for iOS 15.5 or later.
 # cooking-recipe-app
+
+
+![Screenshot 2024-11-25 095339](https://github.com/user-attachments/assets/caed58b6-fc6c-4df5-994a-a4d2022595fe)
